@@ -12,3 +12,4 @@ c:\Users\Ameer\Documents\Code\Game Data Parser\obj\Debug\net10.0\refint\Game Dat
 c:\Users\Ameer\Documents\Code\Game Data Parser\obj\Debug\net10.0\Game Data Parser.pdb
 c:\Users\Ameer\Documents\Code\Game Data Parser\obj\Debug\net10.0\Game Data Parser.genruntimeconfig.cache
 c:\Users\Ameer\Documents\Code\Game Data Parser\obj\Debug\net10.0\ref\Game Data Parser.dll
+C:\Users\Ameer\Documents\Code\Game Data Parser\obj\Debug\net10.0\Game Data Parser.sourcelink.json

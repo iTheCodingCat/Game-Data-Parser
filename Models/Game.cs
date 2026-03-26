@@ -1,3 +1,4 @@
+namespace GameDataParser.Models{}
 public class Game
 {
 
