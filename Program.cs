@@ -9,6 +9,10 @@ try
     List<Game> games = fileService.ReadGamesFromFile(fileName);
 
     ui.ShowMessage($"Successfully loaded {games.Count} games from file.");
+    foreach (var game in games)
+    {
+        Console.WriteLine($"{game.Title} - {game.Rating} - {game.ReleaseYear}");
+    }
 }
 catch (Exception ex)
 {
